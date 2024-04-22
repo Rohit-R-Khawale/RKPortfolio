@@ -1,4 +1,6 @@
 import React from "react";
+import Navbar from "./Navbar";
+import { Link } from "react-router-dom";
 
 function Skills() {
     return (
@@ -81,7 +83,9 @@ function Card(props) {
                 </ol>
                 
                 <div className="scale-101 m-2 p-2 bg-[#FFCD29] rounded-full text-center text-black font-semibold cursor-pointer hover:bg-[#031831] hover:text-white">
-                    <p>See Project on Git Hub</p>
+                    <Link to="https://github.com/Rohit-R-Khawale?tab=repositories" target="_blank">
+                        <p>See Project on Git Hub</p>
+                    </Link>
                 </div>
             </div>
         </cards>
