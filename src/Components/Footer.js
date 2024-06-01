@@ -62,7 +62,7 @@ export default Footer;
 function Footcard(props) {  
   return (
   <>
-      <card className="bg-[#D9D9D9] m-8 rounded-bl-3xl rounded-tr-3xl text-black p-10 py-8 flex flex-col justify-between gap-4">
+      <card className="bg-[#D9D9D9] m-8 rounded-bl-3xl rounded-tr-3xl text-black p-10 py-8 flex flex-col justify-between gap-4 ">
         <h3 className="text-center text-2xl font-semibold h-fit">{props.head}</h3>
         <span>
           <p>{props.detail}</p>

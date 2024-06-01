@@ -13,7 +13,7 @@ function Navbar() {
               <Link to="/" className='hover:opacity-80 hover:scale-90'>Home</Link>
               <Link to="/MySkills" className='hover:opacity-80 hover:scale-90'>Skills</Link>
               <Link to="/AboutUs" className='hover:opacity-80 hover:scale-90'>About</Link>
-              <Link to="/ContactMe"><a href={"/ContactMe"} className='hover:opacity-80 hover:scale-90'>Contact Me</a></Link>
+              <Link to="/ContactMe"  className='hover:opacity-80 hover:scale-90'>Contact Me</Link>
            </div>
            <Link to="/ContactMe">
              <div className='bg-[#FFCD29] hover:bg-[#3C93DE] rounded-full'><img src={logo} alt="Logo" className='w-9 h-9 rounded-full cursor-pointer'/></div>
