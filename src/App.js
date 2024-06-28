@@ -5,6 +5,7 @@ import MySkills from "./Subpages/MySkills"
 import Work from "./Subpages/Work"
 import { Routes, Route } from 'react-router-dom'
 import Contact from './Subpages/Contact'
+import { SpeedInsights} from "@vercel/speed-insights/react"
 function App() {
   return (
     <main className='patrick-hand-regular mx-24 p-2 bg-black m-2 rounded-xl'>
@@ -17,6 +18,7 @@ function App() {
         {/* <Route path='' element={<></>}/>
         <Route path='' element={<></>}/> */}
       </Routes>
+      <SpeedInsights/>
      
     </main>
   )
