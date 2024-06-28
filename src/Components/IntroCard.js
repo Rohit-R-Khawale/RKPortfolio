@@ -6,7 +6,7 @@ function IntroCard() {
      
       <div  className=' py-5 flex flex-col gap-3'>
         <h1 className='text-7xl text-[#FFF] text-center'>Rohit R. Khawale</h1>
-        <h3 className='text-2xl text-center'>I am a Frontend Developer</h3>
+        <h3 className='text-2xl text-center'>I am a Full-Stack Developer</h3>
       </div>
       <div className='p-3 w-full flex justify-end'>
         <Link to="/ContactMe">

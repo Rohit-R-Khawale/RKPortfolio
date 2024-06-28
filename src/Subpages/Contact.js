@@ -12,11 +12,11 @@ function Contact() {
         
           <div className="p-5 bg-[#464646] rounded-md mx-2  align-middle">
             <div className="text-[#66EAFF] p-2">
-              <p>I am currently pursuing my Bachelor's Degree in InformationTtechnology from Dr. Babasaheb Ambedkar Technological university. I'm currently learning Full Stack Development and also I'm enthusiastic about experience and challenges from programming and I'm trying my best to solve the problem. I have also made some projects, you can check the projects on Github...    </p>
+              <p>I am currently pursuing my Bachelor's Degree in Information Technology from Dr. Babasaheb Ambedkar Technological University. I'm currently learning Full Stack Development and also I'm enthusiastic about experience and challenges from programming and I'm trying my best to solve the problem. I have also made some projects, you can check the projects on Github...    </p>
             </div>
             <hr className="p-3"/>
             <p className="text-white text-center  m-auto py-3">We can Get in Touch on the Following Platforms</p>
-            <div className="flex gap-5 justify-between">
+            <div className="flex gap-24 justify-center">
               <a
                 href="https://www.linkedin.com/in/rohit-khawale-21a578214/"
                 rel="noreferrer"

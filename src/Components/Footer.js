@@ -47,9 +47,9 @@ function Footer() {
           />
 
           <Footcard
-            head="Entrepreneur Development Cell"
-            detail=" EDC Which helps new startups and startup ideas to grow into a business. We created a website for the EDC cell of our University..."
-            link="https://dbatu.ac.in/"
+            head="Other Projects"
+            detail="I have also worked on many other projects which you can see on my GitHub profile... "
+            link="https://github.com/Rohit-R-Khawale?tab=repositories"
           />
         </div>
       </div>

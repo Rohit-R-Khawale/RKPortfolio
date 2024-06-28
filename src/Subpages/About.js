@@ -17,14 +17,11 @@ function About() {
           <li>CSS</li>
           <li>JavaScript-JS</li>
           <li>React</li>
-          <li>Next JS</li>
+          {/* <li>Next JS</li> */}
           <li>Git/Git Hub</li>
           <li>Tailwind</li>
-          <li></li>
-          <li></li>
-          <li></li>
+          
         </ul>
-
       </div>
       <Footer/> 
     </main>
